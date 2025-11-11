@@ -52,14 +52,6 @@ Animated Skill Bars (About Page)
 Triggers skill bar animations when the section comes into view.
 Uses Intersection Observer for performance-friendly activation.
 
-* Technologies Used
-
-Technology	Purpose
-HTML5	Structure and content layout.
-CSS3 (Grid & Variables)	Styling, responsiveness, and theme customization.
-JavaScript (Vanilla)	Interactivity, validation, and animations.
-LocalStorage API	Saving theme preference for user persistence.
-
 * Key Features
 
  Fully responsive (mobile, tablet, and desktop)
